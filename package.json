@@ -3,12 +3,6 @@
 	"name": "jccourt",
 	"version": "1.1.0",
 	"description": "Personal portfolio template built using Reactjs",
-	"author": {
-		"name": "Jack C",
-		"email": "jccourtenay@gmail.com",
-		"url": "https://JCCourt.github.io"
-	},
-	"license": "MIT",
 	"private": false,
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",
