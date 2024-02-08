@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jccourt.github.io/static/css/main.c1ea095c.css",
-    "main.js": "/jccourt.github.io/static/js/main.7bc23a1a.js",
-    "static/js/787.3810f754.chunk.js": "/jccourt.github.io/static/js/787.3810f754.chunk.js",
-    "index.html": "/jccourt.github.io/index.html",
-    "main.c1ea095c.css.map": "/jccourt.github.io/static/css/main.c1ea095c.css.map",
-    "main.7bc23a1a.js.map": "/jccourt.github.io/static/js/main.7bc23a1a.js.map",
-    "787.3810f754.chunk.js.map": "/jccourt.github.io/static/js/787.3810f754.chunk.js.map"
+    "main.css": "/JCCourt.github.io/static/css/main.c1ea095c.css",
+    "main.js": "/JCCourt.github.io/static/js/main.f602edff.js",
+    "static/js/787.3810f754.chunk.js": "/JCCourt.github.io/static/js/787.3810f754.chunk.js",
+    "index.html": "/JCCourt.github.io/index.html",
+    "main.c1ea095c.css.map": "/JCCourt.github.io/static/css/main.c1ea095c.css.map",
+    "main.f602edff.js.map": "/JCCourt.github.io/static/js/main.f602edff.js.map",
+    "787.3810f754.chunk.js.map": "/JCCourt.github.io/static/js/787.3810f754.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1ea095c.css",
-    "static/js/main.7bc23a1a.js"
+    "static/js/main.f602edff.js"
   ]
 }
