@@ -1,5 +1,5 @@
 {
-	"homepage": "https://JCCourt.github.io/JCCourt.github.io",
+	"homepage": "https://JCCourt.github.io/jccourtwebsite",
 	"name": "jccourt",
 	"version": "1.1.0",
 	"description": "Personal portfolio template built using Reactjs",
@@ -9,7 +9,7 @@
 		"url": "https://JCCourt.github.io"
 	},
 	"license": "MIT",
-	"private": true,
+	"private": false,
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",
 		"@fortawesome/free-brands-svg-icons": "^6.4.0",
