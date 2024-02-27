@@ -2,7 +2,7 @@
 
 Let me know what you think of my website!
 
-[JCCourt.github.io](JCCourt.github.io) 
+[JCCourt.github.io](https://jccourt.github.io/)
 
 ## Technologies Used
 
