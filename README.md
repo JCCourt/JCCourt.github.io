@@ -1,6 +1,8 @@
 # Welcome to my website
 
-Let me know what you think of my website! 
+Let me know what you think of my website!
+
+[JCCourt.github.io](JCCourt.github.io) 
 
 ## Technologies Used
 
