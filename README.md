@@ -1,6 +1,6 @@
 # My Personal Portfolio Website
 
-JCCourt.github.io
+[JCCourt.github.io](https://jccourt.github.io/)
 
 A personal website built with React.
 
